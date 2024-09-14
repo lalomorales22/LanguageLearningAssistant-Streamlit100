@@ -16,7 +16,7 @@ Language Learning Assistant is a Streamlit-based web application that provides A
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/language-learning-assistant.git
+   git clone https://github.com/lalomorales22/LanguageLearningAssistant-Streamlit100.git
    cd language-learning-assistant
    ```
 
